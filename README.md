@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning web3/eth/solidity, go, linux, k8s.
+- 🌱 I’m currently learning web3/eth/solidity, rust and sometimes go.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
