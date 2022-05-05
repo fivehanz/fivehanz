@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning web3/eth/solidity, rust and sometimes go.
+- 🌱 I’m currently learning/building on web3, zero-knowledge & rust.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me:  -->
+- 📫 How to reach me: [twitter](https://twitter.com/fivehanz)
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
 
