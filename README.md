@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning/building on Go, Rust, Blockchain/Web3.
+- 🌱 I’m currently learning/building on CSS, ReactJS, Blockchain/Web3.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
