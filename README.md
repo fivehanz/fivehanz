@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning/building on React/Nextjs, Blockchain/Web3.
+- 🌱 I’m currently learning/building on React/Nextjs, Blockchain/Web3, Go/DevOps/k8s.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [twitter](https://twitter.com/fivehanz) [personal-website/portfolio](https://fivehanz.xyz)
+- 📫 How to reach me: [twitter](https://twitter.com/fivehanz)
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
 
