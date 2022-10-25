@@ -5,9 +5,13 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [twitter](https://twitter.com/fivehanz)
+- 📫 How to reach me: [Twitter](https://twitter.com/fivehanz) & [Linkedin](https://linkedin.com/in/fivehanz)
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
+
+### :writing_hand: Blog Posts :
+
+
 
 <!-- ### some stats 
 <p align="center">
