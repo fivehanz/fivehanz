@@ -12,6 +12,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [how to setup a simple LEMP stack on Rocky Linux 9?](https://blog.fivehanz.xyz/how-to-setup-a-simple-lemp-stack-on-rocky-linux-9)
 <!-- BLOG-POST-LIST:END -->
 
 
