@@ -12,6 +12,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to setup a Kubernetes cluster with Rocky Linux 9 using Proxmox VE on your old laptop?](https://blog.fivehanz.xyz/how-to-setup-a-kubernetes-cluster-with-rocky-linux-9-using-proxmox-ve-on-your-old-laptop)
 - [how to setup a simple LEMP stack on Rocky Linux 9?](https://blog.fivehanz.xyz/how-to-setup-a-simple-lemp-stack-on-rocky-linux-9)
 <!-- BLOG-POST-LIST:END -->
 
