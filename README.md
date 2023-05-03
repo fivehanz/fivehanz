@@ -1,7 +1,7 @@
 Hi 👋 My name is Hanz
 ============================================================================================================================
 
-*   🧠  I'm learning Kubernetes, Rust & Linux
+*   🧠  I'm learning rust, typescript and everything in between.
    
 ### Skills
 
