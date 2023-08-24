@@ -1,7 +1,7 @@
 Hi 👋 My name is Hanz
 ============================================================================================================================
 
-*   🧠  I'm learning rust, nix and everything in between.
+*   🧠  I'm learning rust, nix and elixir / phoenix framework.
    
 ### Skills
 
