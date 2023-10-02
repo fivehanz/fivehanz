@@ -1,7 +1,7 @@
 Hi 👋 My name is Hanz
 ============================================================================================================================
 
-*   🧠  I'm learning rust and wagtail cms framework.
+*   🧠  I'm learning rust, nix and wagtail cms framework.
    
 ### Skills
 
