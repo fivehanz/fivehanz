@@ -39,8 +39,8 @@ Hi 👋 My name is Hanz
 ### :writing_hand: Recent Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [wtf is a Linux kernel?](https://blog.fivehanz.xyz/wtf-is-a-linux-kernel)
-- [How to setup a Kubernetes cluster with Rocky Linux 9 using Proxmox VE on your old laptop?](https://blog.fivehanz.xyz/how-to-setup-a-kubernetes-cluster-with-rocky-linux-9-using-proxmox-ve-on-your-old-laptop)
-- [Effortlessly Set Up a LEMP Stack on Rocky Linux 9!](https://blog.fivehanz.xyz/effortlessly-set-up-a-lemp-stack-on-rocky-linux-9)
+- [wtf is a Linux kernel?](https://devblog.hanz.lol/wtf-is-a-linux-kernel)
+- [How to setup a Kubernetes cluster with Rocky Linux 9 using Proxmox VE on your old laptop?](https://devblog.hanz.lol/how-to-setup-a-kubernetes-cluster-with-rocky-linux-9-using-proxmox-ve-on-your-old-laptop)
+- [Effortlessly Set Up a LEMP Stack on Rocky Linux 9!](https://devblog.hanz.lol/effortlessly-set-up-a-lemp-stack-on-rocky-linux-9)
 <!-- BLOG-POST-LIST:END -->
 
