@@ -1,7 +1,7 @@
 Hi 👋 My name is Hanz
 ============================================================================================================================
 
-*   🧠  I'm learning django + wagtail cms, tailwind css, rust and more.
+*   🧠  I'm learning django + wagtail cms, tailwind css and shopify.
    
 ### Skills
 
