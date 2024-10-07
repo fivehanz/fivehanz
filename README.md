@@ -1,7 +1,7 @@
 Hi 👋 My name is Hanz
 ============================================================================================================================
 
-*   🧠  I'm learning django, elixir + phoenix + ash, tailwind css and wordpress w/ nginx.
+*   🧠  I'm learning django, n8n, postgres, qdrant, haystack 2.0, grafana, prometheus and nginx, apart from figma, linux and freebsd 14.
    
 ### Skills
 
