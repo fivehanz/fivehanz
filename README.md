@@ -1,7 +1,7 @@
 Hi 👋 My name is Hanz
 ============================================================================================================================
 
-*   🧠  I'm learning django, htmx, postgresql, pydantic AI, n8n, and nginx, apart from figma, linux and freebsd 14.
+*   🧠  I'm learning Django, Rails 8, PostgreSQL, Pydantic AI, n8n, Linux, Proxmox, k8s, RAG & Context Engineering (LLMs).
    
 ### Skills
 
