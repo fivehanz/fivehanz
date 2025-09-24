@@ -1,7 +1,15 @@
 Hi 👋 My name is Hanz
 ============================================================================================================================
 
-*   🧠  I'm learning Django, Rails 8, PostgreSQL, Pydantic AI, n8n, Linux, Proxmox, k8s, RAG & Context Engineering (LLMs).
+🧠  I'm working with
+  *   Django 5.2 LTS, Wagtail 7 LTS,
+  *   Tailwind CSS 4, Daisy UI 5,
+  *   Hotwire (Stimulus + Turbo),
+  *   PostgreSQL, Sqlite,
+  *   Linux, FreeBSD, OpenBSD,
+  *   Proxmox, Bhyve,
+  *   k8s, Docker/Containers, Jails,
+  *   RAG & Context Engineering (LLMs).
    
 ### Skills
 
