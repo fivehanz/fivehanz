@@ -2,13 +2,13 @@ Hi 👋 My name is Hanz
 ============================================================================================================================
 
 🧠  I'm working with
-  *   Django 5.2 LTS, Wagtail 7 LTS,
-  *   Tailwind CSS 4, Daisy UI 5,
+  *   Django 5.2 LTS, Wagtail 7 LTS, Elixir, Phoenix Framework + Ash
+  *   Tailwind CSS 4, Daisy UI 5, Liveview
   *   Hotwire (Stimulus + Turbo),
   *   PostgreSQL, Sqlite,
-  *   Linux, FreeBSD, OpenBSD,
+  *   Linux, FreeBSD,
   *   Proxmox, Bhyve,
-  *   k8s, Docker/Containers, Jails,
+  *   k8s, Docker/Containers, Jails, 
   *   RAG & Context Engineering (LLMs).
    
 ### Skills
